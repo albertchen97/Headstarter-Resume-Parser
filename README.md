@@ -1,4 +1,4 @@
-#  Headsterter Summer 2022 company case projects - Resume Parser
+#  Headsterter Summer 2022 company case project - Resume Parser
 
 A full-stack React-Express resume parser including a file uploading feature and a keyword searching feature.
 
