@@ -2,7 +2,7 @@
 
 The requirement is to build a resume parser for companies to upload the applicants' resumes to the website and sort the resume based on specific keywords.
 
-I built a full-stack React-Express resume parser including a file uploading feature and a keyword searching feature. The HTTPS requests are handled by React-Axios API
+I built a full-stack React-Express resume parser including a file uploading feature and a keyword searching feature. The HTTPS requests are handled by Axios API
 
 ## Quick Start
 
