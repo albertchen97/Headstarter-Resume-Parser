@@ -1,6 +1,8 @@
-#  Headsterter Summer 2022 company case project - Resume Parser
+#  Headsterter Summer 2022 Company Case Project - Resume Parser
 
-A full-stack React-Express resume parser including a file uploading feature and a keyword searching feature.
+The need is to builda resume parser for companies to upload the applicants' resumes to the website and sort the resume based on specific keywords.
+
+I buit a full-stack React-Express resume parser including a file uploading feature and a keyword searching feature.
 
 ## Quick Start
 
