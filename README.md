@@ -2,12 +2,6 @@
 
 A full-stack React-Express resume parser including a file uploading feature and a keyword searching feature.
 
-## Credit to YouTube Tutorials
-
-File Upload: https://www.youtube.com/watch?v=b6Oe2puTdMQ&t=59s&ab_channel=TraversyMedia
-
-Keyworkd Search Filter: https://www.youtube.com/watch?v=mZvKPtH9Fzo&ab_channel=PedroTech
-
 ## Quick Start
 
 ```bash
@@ -20,3 +14,8 @@ npm install
 npm run dev
 ```
 
+## Credit to YouTube Tutorials
+
+File Upload: https://www.youtube.com/watch?v=b6Oe2puTdMQ&t=59s&ab_channel=TraversyMedia
+
+Keyworkd Search Filter: https://www.youtube.com/watch?v=mZvKPtH9Fzo&ab_channel=PedroTech
