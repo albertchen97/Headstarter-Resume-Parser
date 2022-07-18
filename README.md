@@ -20,4 +20,4 @@ npm run dev
 
 File Upload: https://www.youtube.com/watch?v=b6Oe2puTdMQ&t=59s&ab_channel=TraversyMedia
 
-Keyworkd Search Filter: https://www.youtube.com/watch?v=mZvKPtH9Fzo&ab_channel=PedroTech
+Keyword Search Filter: https://www.youtube.com/watch?v=mZvKPtH9Fzo&ab_channel=PedroTech
